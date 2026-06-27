@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1782438970 source:c:\users\gonza\desktop\ejercicio 1 teoria de la computacion\ejercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
